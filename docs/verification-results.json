@@ -1,0 +1,71 @@
+{
+  "platform": "Windows-11-10.0.26300-SP0",
+  "python": "3.12.14",
+  "numpy": "2.5.4",
+  "matplotlib": "3.11.2",
+  "Pillow": "12.3.0",
+  "function_count": 27,
+  "notebook_code_cells": 8,
+  "smoke_tests": "4/4 passed",
+  "generated_files": [
+    "FDR_v0_5_diffuse_stress_6panel.mp4",
+    "FDR_v0_5_diffuse_stress_final.png",
+    "FDR_v0_5_parameters.json",
+    "FDR_v0_5_standard_6panel.mp4",
+    "FDR_v0_5_standard_final.png",
+    "FDR_v0_5_summary.csv",
+    "FDR_v0_5_terrain_3d.png",
+    "FDR_v0_5_timecourse.csv",
+    "FDR_v0_5_timecourses.png"
+  ],
+  "archived_comparison": {
+    "FDR_v0_5_diffuse_stress_6panel.mp4": {
+      "byte_equal": false,
+      "decode_passed": true
+    },
+    "FDR_v0_5_diffuse_stress_final.png": {
+      "byte_equal": false
+    },
+    "FDR_v0_5_parameters.json": {
+      "byte_equal": false,
+      "semantic_match": true
+    },
+    "FDR_v0_5_standard_6panel.mp4": {
+      "byte_equal": false,
+      "decode_passed": true
+    },
+    "FDR_v0_5_standard_final.png": {
+      "byte_equal": false
+    },
+    "FDR_v0_5_summary.csv": {
+      "byte_equal": false,
+      "rows": 12,
+      "numeric_match": true,
+      "max_abs_diff": 2.220446049250313e-16
+    },
+    "FDR_v0_5_terrain_3d.png": {
+      "byte_equal": false
+    },
+    "FDR_v0_5_timecourse.csv": {
+      "byte_equal": false,
+      "rows": 732,
+      "numeric_match": true,
+      "max_abs_diff": 4.440892098500626e-16
+    },
+    "FDR_v0_5_timecourses.png": {
+      "byte_equal": false
+    }
+  },
+  "notebook_execution": "8/8 code cells passed locally; Colab cloud untested",
+  "notebook_vs_script": {
+    "FDR_v0_5_diffuse_stress_6panel.mp4": true,
+    "FDR_v0_5_diffuse_stress_final.png": true,
+    "FDR_v0_5_parameters.json": true,
+    "FDR_v0_5_standard_6panel.mp4": true,
+    "FDR_v0_5_standard_final.png": true,
+    "FDR_v0_5_summary.csv": true,
+    "FDR_v0_5_terrain_3d.png": true,
+    "FDR_v0_5_timecourse.csv": true,
+    "FDR_v0_5_timecourses.png": true
+  }
+}

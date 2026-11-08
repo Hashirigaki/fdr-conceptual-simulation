@@ -1,0 +1,97 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 98,
+    "sha256": "c2e1cd4b4e9b43df771e70d394c02adf8c84c317520a59392bba4a153be775ab"
+  },
+  {
+    "path": "docs/model-and-parameters.md",
+    "bytes": 3439,
+    "sha256": "c5eccde393ae37b30e84634d67c7e666a967a41951f7c82970747be78b53d958"
+  },
+  {
+    "path": "docs/verification-environment.txt",
+    "bytes": 897,
+    "sha256": "907077a8738b45616117ff6f07e4f7a17792726fa401153870d10bdca839e23f"
+  },
+  {
+    "path": "docs/verification-results.json",
+    "bytes": 2024,
+    "sha256": "71d86ecb4c631175aef0b7425b8a5dc17a55cb20530f062d2168afb8de29e9be"
+  },
+  {
+    "path": "docs/verification.md",
+    "bytes": 4510,
+    "sha256": "471df8e7e4090fcb0791bd07bd4055f69e27036893d67ba40299f52074f55942"
+  },
+  {
+    "path": "notebooks/FDR_v0.5_Showcase_Colab.ipynb",
+    "bytes": 39493,
+    "sha256": "7666422a777a430f7b7b61cb0e7a0f8ece3aab92df933123fa4187997d88630b"
+  },
+  {
+    "path": "outputs/showcase_v0.5/FDR_v0_5_diffuse_stress_6panel.mp4",
+    "bytes": 1620638,
+    "sha256": "4defbe778fdd7cef9491f3c5333207f7e730b1abc24e5267c7387c642363b99b"
+  },
+  {
+    "path": "outputs/showcase_v0.5/FDR_v0_5_diffuse_stress_final.png",
+    "bytes": 784198,
+    "sha256": "4eff7b3e122909bcf8a0971211fc0f063891fc0d68a5ec921632ea92255cb8e5"
+  },
+  {
+    "path": "outputs/showcase_v0.5/FDR_v0_5_parameters.json",
+    "bytes": 947,
+    "sha256": "e70f2744590e9730a7d75d2dfb3bb9b38aa8cef3a038e1d3d4fe010f63df6bc2"
+  },
+  {
+    "path": "outputs/showcase_v0.5/FDR_v0_5_standard_6panel.mp4",
+    "bytes": 1090278,
+    "sha256": "787a5f5b27d8e08de9e3e568c61ec2a162dd68e7ebc25af81aaea1ee349808cd"
+  },
+  {
+    "path": "outputs/showcase_v0.5/FDR_v0_5_standard_final.png",
+    "bytes": 726094,
+    "sha256": "f6e939db612169690d709a3b21377e140e06ca57e58784868480824ffa4e3dc6"
+  },
+  {
+    "path": "outputs/showcase_v0.5/FDR_v0_5_summary.csv",
+    "bytes": 1902,
+    "sha256": "3aa3f801a7d59ea514a965ddaec1e82234fa818106932465070100d42820ec52"
+  },
+  {
+    "path": "outputs/showcase_v0.5/FDR_v0_5_terrain_3d.png",
+    "bytes": 201473,
+    "sha256": "ef3e0f36bee876e506035402b73f707ba82ad1bcb87db0eebfcdd4503fefac6d"
+  },
+  {
+    "path": "outputs/showcase_v0.5/FDR_v0_5_timecourse.csv",
+    "bytes": 83444,
+    "sha256": "7f8a9ebcba59df9a64bd6665c9e1275e1b51c8633bb74bf5d932f20e25fa2b41"
+  },
+  {
+    "path": "outputs/showcase_v0.5/FDR_v0_5_timecourses.png",
+    "bytes": 225318,
+    "sha256": "240ee00ddba268aad0df1d02f69e6bcc3ba2a6ec145187b3f35d4bf96f837020"
+  },
+  {
+    "path": "README.md",
+    "bytes": 7666,
+    "sha256": "be6e41eeb1b4b74158160383daa38f4e66d91750bd3e2510f81c16a7211bd5ff"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 118,
+    "sha256": "207db007d2b251d510881298a917c75fec251f6295638a6ccefdec6d68ecfb96"
+  },
+  {
+    "path": "src/fdr_v0_5_showcase.py",
+    "bytes": 28884,
+    "sha256": "bbe06c6957230c595327ef10d1d8a96bba836887697b809b3077d8e466ad7a8c"
+  },
+  {
+    "path": "tests/test_model.py",
+    "bytes": 1275,
+    "sha256": "dee5dee54c1dca1e4f615da91fa73fe5fb792f1a9039e483573e4336c598b540"
+  }
+]

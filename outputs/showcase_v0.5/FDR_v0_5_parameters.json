@@ -1,0 +1,39 @@
+{
+  "title": "FDR Conceptual Simulation v0.5",
+  "status": "toy conceptual demonstration; no neuroscience validation",
+  "seed": 20261107,
+  "particles": 180,
+  "dt": 0.035,
+  "t_end": 10.5,
+  "flow_end": 2.0,
+  "dissipation_end": 6.0,
+  "L": 2.2,
+  "H": 0.75,
+  "BETA_TRENCH": 1.1,
+  "GAMMA_TRENCH": 0.05,
+  "barrier_levels_alpha": {
+    "LOW": 0.012,
+    "MEDIUM": 0.03,
+    "HIGH": 0.072
+  },
+  "barrier_along_W_trench": {
+    "LOW": 0.20156427377777786,
+    "MEDIUM": 0.5039106844444446,
+    "HIGH": 1.2093856426666671
+  },
+  "cue_strength": 0.46,
+  "D_base": 0.014,
+  "D_peak": 0.62,
+  "D_stress": 0.34,
+  "stress_restoring_fraction": 0.22,
+  "stress_escape_drift_strength": 1.0,
+  "basin_radius": 0.52,
+  "animation_stride": 5,
+  "fps": 12,
+  "scenarios": [
+    "standard",
+    "diffuse_stress"
+  ],
+  "common_random_numbers": true,
+  "metric_definition": "A/B/C=within radius of nearest of three minima; unbound=outside all three circles"
+}
